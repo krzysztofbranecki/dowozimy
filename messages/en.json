@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "nav": {
+      "services": "Services",
+      "process": "How It Works",
+      "gallery": "Gallery",
+      "contact": "Contact"
+    },
+    "cta": "Get a Quote"
+  },
+  "Hero": {
+    "title": "We deliver and assemble furniture across Europe",
+    "subtitle": "Professional White Glove Delivery — transportation, carrying in, and assembly with full safety guarantee.",
+    "cta": "Request a Quote",
+    "trusted": "Trusted by over 2,000 clients"
+  },
+  "USP": {
+    "title": "Why Choose Us?",
+    "assembly": {
+      "title": "Assembly Included",
+      "description": "Professional furniture assembly by an experienced team. Your furniture is ready to use right after delivery."
+    },
+    "coverage": {
+      "title": "EU-Wide Coverage",
+      "description": "We deliver furniture to all European Union countries. One partner — all of Europe."
+    },
+    "insurance": {
+      "title": "Full Insurance",
+      "description": "Every transport is fully insured. Your furniture is safe from loading to assembly."
+    }
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive furniture delivery for individual and business clients",
+    "b2c": {
+      "title": "Home Delivery",
+      "description": "Furniture transport with carrying into your apartment and placement in the designated spot."
+    },
+    "assembly": {
+      "title": "Furniture Assembly",
+      "description": "Professional furniture assembly — from simple shelves to complex kitchen sets."
+    },
+    "relocation": {
+      "title": "Relocations",
+      "description": "Complete relocations with packing, transport, and unpacking at the destination."
+    },
+    "disposal": {
+      "title": "Old Furniture Disposal",
+      "description": "We pick up old furniture and ensure its eco-friendly disposal."
+    }
+  },
+  "Process": {
+    "title": "How It Works",
+    "subtitle": "A simple process from inquiry to completion",
+    "steps": {
+      "quote": {
+        "step": "1",
+        "title": "Inquiry",
+        "description": "Fill out the form or call us. Provide dimensions and delivery location."
+      },
+      "planning": {
+        "step": "2",
+        "title": "Quote & Planning",
+        "description": "We prepare a detailed quote and schedule the delivery date."
+      },
+      "delivery": {
+        "step": "3",
+        "title": "Transport",
+        "description": "Safe furniture transport with full insurance coverage on route."
+      },
+      "assembly": {
+        "step": "4",
+        "title": "Assembly",
+        "description": "Professional assembly and placement of furniture in the designated spot."
+      }
+    }
+  },
+  "TrustSignals": {
+    "title": "Trust and Experience",
+    "stats": {
+      "deliveries": {
+        "value": "5,000+",
+        "label": "Completed Deliveries"
+      },
+      "countries": {
+        "value": "27",
+        "label": "EU Countries"
+      },
+      "satisfaction": {
+        "value": "98%",
+        "label": "Satisfied Clients"
+      },
+      "experience": {
+        "value": "10+",
+        "label": "Years of Experience"
+      }
+    },
+    "mapAlt": "Delivery coverage map in Europe"
+  },
+  "Gallery": {
+    "title": "Our Work",
+    "subtitle": "See what professional furniture delivery and assembly looks like"
+  },
+  "QuoteForm": {
+    "title": "Request a Quote",
+    "subtitle": "Fill out the form and we'll get back to you within 24 hours",
+    "fields": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "from": "From (city/country)",
+      "to": "To (city/country)",
+      "message": "Shipment Description"
+    },
+    "options": {
+      "title": "Additional Services",
+      "assembly": "Furniture Assembly",
+      "disposal": "Old Furniture Disposal",
+      "packaging": "Packaging",
+      "insurance": "Additional Insurance"
+    },
+    "submit": "Send Inquiry",
+    "success": "Thank you! We'll contact you soon.",
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email address",
+      "fromRequired": "Origin location is required",
+      "toRequired": "Delivery location is required"
+    }
+  },
+  "Footer": {
+    "description": "Professional furniture delivery and assembly across Europe. White Glove Delivery — your furniture in safe hands.",
+    "contact": {
+      "title": "Contact",
+      "email": "info@dowozimy.net",
+      "phone": "+48 123 456 789",
+      "address": "ul. Przykładowa 10, 00-001 Warsaw, Poland"
+    },
+    "links": {
+      "title": "Navigation",
+      "services": "Services",
+      "process": "How It Works",
+      "gallery": "Gallery",
+      "quote": "Quote"
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "© {year} dowozimy.net. All rights reserved."
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "nav": {
+      "services": "Usługi",
+      "process": "Jak działamy",
+      "gallery": "Realizacje",
+      "contact": "Kontakt"
+    },
+    "cta": "Wycena online"
+  },
+  "Hero": {
+    "title": "Dowozimy i montujemy meble w całej Europie",
+    "subtitle": "Profesjonalna dostawa typu White Glove — transport, wniesienie i montaż mebli z gwarancją bezpieczeństwa.",
+    "cta": "Zapytaj o wycenę",
+    "trusted": "Zaufało nam ponad 2 000 klientów"
+  },
+  "USP": {
+    "title": "Dlaczego my?",
+    "assembly": {
+      "title": "Montaż w cenie",
+      "description": "Profesjonalny montaż mebli przez doświadczony zespół. Twoje meble gotowe do użytku od razu po dostawie."
+    },
+    "coverage": {
+      "title": "Zasięg w całej UE",
+      "description": "Dostarczamy meble do wszystkich krajów Unii Europejskiej. Jeden partner — cała Europa."
+    },
+    "insurance": {
+      "title": "Pełne ubezpieczenie",
+      "description": "Każdy transport objęty ubezpieczeniem. Twoje meble są bezpieczne od załadunku do montażu."
+    }
+  },
+  "Services": {
+    "title": "Nasze usługi",
+    "subtitle": "Kompleksowa obsługa dostaw mebli dla klientów indywidualnych i biznesowych",
+    "b2c": {
+      "title": "Dostawa do domu",
+      "description": "Transport mebli z wniesieniem do mieszkania i ustawieniem we wskazanym miejscu."
+    },
+    "assembly": {
+      "title": "Montaż mebli",
+      "description": "Profesjonalny montaż mebli — od prostych regałów po złożone zestawy kuchenne."
+    },
+    "relocation": {
+      "title": "Przeprowadzki",
+      "description": "Kompleksowe przeprowadzki z pakowaniem, transportem i rozpakowaniem na miejscu."
+    },
+    "disposal": {
+      "title": "Utylizacja starych mebli",
+      "description": "Zabieramy stare meble i dbamy o ich ekologiczną utylizację."
+    }
+  },
+  "Process": {
+    "title": "Jak działamy",
+    "subtitle": "Prosty proces od zapytania do realizacji",
+    "steps": {
+      "quote": {
+        "step": "1",
+        "title": "Zapytanie",
+        "description": "Wypełnij formularz lub zadzwoń. Podaj wymiary i lokalizację dostawy."
+      },
+      "planning": {
+        "step": "2",
+        "title": "Wycena i planowanie",
+        "description": "Przygotowujemy szczegółową wycenę i ustalamy termin dostawy."
+      },
+      "delivery": {
+        "step": "3",
+        "title": "Transport",
+        "description": "Bezpieczny transport mebli z pełnym ubezpieczeniem na trasie."
+      },
+      "assembly": {
+        "step": "4",
+        "title": "Montaż",
+        "description": "Profesjonalny montaż i ustawienie mebli we wskazanym miejscu."
+      }
+    }
+  },
+  "TrustSignals": {
+    "title": "Zaufanie i doświadczenie",
+    "stats": {
+      "deliveries": {
+        "value": "5 000+",
+        "label": "Zrealizowanych dostaw"
+      },
+      "countries": {
+        "value": "27",
+        "label": "Krajów UE"
+      },
+      "satisfaction": {
+        "value": "98%",
+        "label": "Zadowolonych klientów"
+      },
+      "experience": {
+        "value": "10+",
+        "label": "Lat doświadczenia"
+      }
+    },
+    "mapAlt": "Mapa zasięgu dostaw w Europie"
+  },
+  "Gallery": {
+    "title": "Nasze realizacje",
+    "subtitle": "Zobacz, jak wygląda profesjonalna dostawa i montaż mebli"
+  },
+  "QuoteForm": {
+    "title": "Zapytaj o wycenę",
+    "subtitle": "Wypełnij formularz, a skontaktujemy się w ciągu 24 godzin",
+    "fields": {
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "phone": "Numer telefonu",
+      "from": "Skąd (miasto/kraj)",
+      "to": "Dokąd (miasto/kraj)",
+      "message": "Opis przesyłki"
+    },
+    "options": {
+      "title": "Dodatkowe usługi",
+      "assembly": "Montaż mebli",
+      "disposal": "Utylizacja starych mebli",
+      "packaging": "Pakowanie",
+      "insurance": "Dodatkowe ubezpieczenie"
+    },
+    "submit": "Wyślij zapytanie",
+    "success": "Dziękujemy! Skontaktujemy się wkrótce.",
+    "errors": {
+      "nameRequired": "Imię jest wymagane",
+      "emailRequired": "E-mail jest wymagany",
+      "emailInvalid": "Nieprawidłowy adres e-mail",
+      "fromRequired": "Podaj lokalizację nadania",
+      "toRequired": "Podaj lokalizację dostawy"
+    }
+  },
+  "Footer": {
+    "description": "Profesjonalna dostawa i montaż mebli w całej Europie. White Glove Delivery — Twoje meble w bezpiecznych rękach.",
+    "contact": {
+      "title": "Kontakt",
+      "email": "info@dowozimy.net",
+      "phone": "+48 123 456 789",
+      "address": "ul. Przykładowa 10, 00-001 Warszawa"
+    },
+    "links": {
+      "title": "Nawigacja",
+      "services": "Usługi",
+      "process": "Jak działamy",
+      "gallery": "Realizacje",
+      "quote": "Wycena"
+    },
+    "legal": {
+      "privacy": "Polityka prywatności",
+      "terms": "Regulamin"
+    },
+    "copyright": "© {year} dowozimy.net. Wszelkie prawa zastrzeżone."
+  }
+}

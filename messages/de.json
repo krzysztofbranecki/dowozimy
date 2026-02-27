@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "nav": {
+      "services": "Dienstleistungen",
+      "process": "So funktioniert's",
+      "gallery": "Galerie",
+      "contact": "Kontakt"
+    },
+    "cta": "Angebot anfordern"
+  },
+  "Hero": {
+    "title": "Wir liefern und montieren Möbel in ganz Europa",
+    "subtitle": "Professioneller White Glove Delivery Service — Transport, Einbringung und Montage mit voller Sicherheitsgarantie.",
+    "cta": "Angebot anfordern",
+    "trusted": "Über 2.000 zufriedene Kunden"
+  },
+  "USP": {
+    "title": "Warum wir?",
+    "assembly": {
+      "title": "Montage inklusive",
+      "description": "Professionelle Möbelmontage durch ein erfahrenes Team. Ihre Möbel sind sofort nach der Lieferung einsatzbereit."
+    },
+    "coverage": {
+      "title": "EU-weite Abdeckung",
+      "description": "Wir liefern Möbel in alle Länder der Europäischen Union. Ein Partner — ganz Europa."
+    },
+    "insurance": {
+      "title": "Vollversicherung",
+      "description": "Jeder Transport ist voll versichert. Ihre Möbel sind von der Verladung bis zur Montage sicher."
+    }
+  },
+  "Services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassender Möbellieferservice für Privat- und Geschäftskunden",
+    "b2c": {
+      "title": "Hauslieferung",
+      "description": "Möbeltransport mit Einbringung in die Wohnung und Aufstellung am gewünschten Platz."
+    },
+    "assembly": {
+      "title": "Möbelmontage",
+      "description": "Professionelle Möbelmontage — von einfachen Regalen bis hin zu komplexen Küchenzeilen."
+    },
+    "relocation": {
+      "title": "Umzüge",
+      "description": "Komplette Umzüge mit Verpackung, Transport und Auspacken am Zielort."
+    },
+    "disposal": {
+      "title": "Altmöbelentsorgung",
+      "description": "Wir holen alte Möbel ab und sorgen für eine umweltgerechte Entsorgung."
+    }
+  },
+  "Process": {
+    "title": "So funktioniert's",
+    "subtitle": "Ein einfacher Prozess von der Anfrage bis zur Fertigstellung",
+    "steps": {
+      "quote": {
+        "step": "1",
+        "title": "Anfrage",
+        "description": "Füllen Sie das Formular aus oder rufen Sie uns an. Geben Sie Maße und Lieferort an."
+      },
+      "planning": {
+        "step": "2",
+        "title": "Angebot & Planung",
+        "description": "Wir erstellen ein detailliertes Angebot und vereinbaren den Liefertermin."
+      },
+      "delivery": {
+        "step": "3",
+        "title": "Transport",
+        "description": "Sicherer Möbeltransport mit Vollversicherung auf der gesamten Strecke."
+      },
+      "assembly": {
+        "step": "4",
+        "title": "Montage",
+        "description": "Professionelle Montage und Aufstellung der Möbel am gewünschten Platz."
+      }
+    }
+  },
+  "TrustSignals": {
+    "title": "Vertrauen und Erfahrung",
+    "stats": {
+      "deliveries": {
+        "value": "5.000+",
+        "label": "Abgeschlossene Lieferungen"
+      },
+      "countries": {
+        "value": "27",
+        "label": "EU-Länder"
+      },
+      "satisfaction": {
+        "value": "98%",
+        "label": "Zufriedene Kunden"
+      },
+      "experience": {
+        "value": "10+",
+        "label": "Jahre Erfahrung"
+      }
+    },
+    "mapAlt": "Karte der Lieferabdeckung in Europa"
+  },
+  "Gallery": {
+    "title": "Unsere Arbeiten",
+    "subtitle": "Sehen Sie, wie professionelle Möbellieferung und Montage aussieht"
+  },
+  "QuoteForm": {
+    "title": "Angebot anfordern",
+    "subtitle": "Füllen Sie das Formular aus und wir melden uns innerhalb von 24 Stunden",
+    "fields": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "from": "Von (Stadt/Land)",
+      "to": "Nach (Stadt/Land)",
+      "message": "Sendungsbeschreibung"
+    },
+    "options": {
+      "title": "Zusätzliche Dienstleistungen",
+      "assembly": "Möbelmontage",
+      "disposal": "Altmöbelentsorgung",
+      "packaging": "Verpackung",
+      "insurance": "Zusatzversicherung"
+    },
+    "submit": "Anfrage senden",
+    "success": "Vielen Dank! Wir melden uns in Kürze.",
+    "errors": {
+      "nameRequired": "Name ist erforderlich",
+      "emailRequired": "E-Mail ist erforderlich",
+      "emailInvalid": "Ungültige E-Mail-Adresse",
+      "fromRequired": "Abholort ist erforderlich",
+      "toRequired": "Lieferort ist erforderlich"
+    }
+  },
+  "Footer": {
+    "description": "Professionelle Möbellieferung und Montage in ganz Europa. White Glove Delivery — Ihre Möbel in sicheren Händen.",
+    "contact": {
+      "title": "Kontakt",
+      "email": "info@dowozimy.net",
+      "phone": "+48 123 456 789",
+      "address": "ul. Przykładowa 10, 00-001 Warschau, Polen"
+    },
+    "links": {
+      "title": "Navigation",
+      "services": "Dienstleistungen",
+      "process": "So funktioniert's",
+      "gallery": "Galerie",
+      "quote": "Angebot"
+    },
+    "legal": {
+      "privacy": "Datenschutz",
+      "terms": "AGB"
+    },
+    "copyright": "© {year} dowozimy.net. Alle Rechte vorbehalten."
+  }
+}
