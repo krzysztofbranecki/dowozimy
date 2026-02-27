@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "nav": {
+      "services": "Diensten",
+      "process": "Hoe het werkt",
+      "gallery": "Galerie",
+      "contact": "Contact"
+    },
+    "cta": "Offerte aanvragen"
+  },
+  "Hero": {
+    "title": "Wij bezorgen en monteren meubels in heel Europa",
+    "subtitle": "Professionele White Glove Delivery — transport, inbreng en montage met volledige veiligheidsgarantie.",
+    "cta": "Offerte aanvragen",
+    "trusted": "Meer dan 2.000 tevreden klanten"
+  },
+  "USP": {
+    "title": "Waarom wij?",
+    "assembly": {
+      "title": "Montage inbegrepen",
+      "description": "Professionele meubelmontage door een ervaren team. Uw meubels zijn direct na levering gebruiksklaar."
+    },
+    "coverage": {
+      "title": "EU-brede dekking",
+      "description": "Wij leveren meubels in alle landen van de Europese Unie. Eén partner — heel Europa."
+    },
+    "insurance": {
+      "title": "Volledige verzekering",
+      "description": "Elk transport is volledig verzekerd. Uw meubels zijn veilig van laden tot montage."
+    }
+  },
+  "Services": {
+    "title": "Onze diensten",
+    "subtitle": "Uitgebreide meubelbezorging voor particuliere en zakelijke klanten",
+    "b2c": {
+      "title": "Thuisbezorging",
+      "description": "Meubeltransport met inbreng in uw woning en plaatsing op de gewenste plek."
+    },
+    "assembly": {
+      "title": "Meubelmontage",
+      "description": "Professionele meubelmontage — van eenvoudige kasten tot complete keukensets."
+    },
+    "relocation": {
+      "title": "Verhuizingen",
+      "description": "Complete verhuizingen met inpakken, transport en uitpakken op de bestemming."
+    },
+    "disposal": {
+      "title": "Afvoer oude meubels",
+      "description": "Wij halen oude meubels op en zorgen voor milieuvriendelijke afvoer."
+    }
+  },
+  "Process": {
+    "title": "Hoe het werkt",
+    "subtitle": "Een eenvoudig proces van aanvraag tot oplevering",
+    "steps": {
+      "quote": {
+        "step": "1",
+        "title": "Aanvraag",
+        "description": "Vul het formulier in of bel ons. Geef afmetingen en leveringslocatie op."
+      },
+      "planning": {
+        "step": "2",
+        "title": "Offerte & planning",
+        "description": "Wij stellen een gedetailleerde offerte op en plannen de leveringsdatum."
+      },
+      "delivery": {
+        "step": "3",
+        "title": "Transport",
+        "description": "Veilig meubeltransport met volledige verzekering onderweg."
+      },
+      "assembly": {
+        "step": "4",
+        "title": "Montage",
+        "description": "Professionele montage en plaatsing van meubels op de gewenste plek."
+      }
+    }
+  },
+  "TrustSignals": {
+    "title": "Vertrouwen en ervaring",
+    "stats": {
+      "deliveries": {
+        "value": "5.000+",
+        "label": "Voltooide leveringen"
+      },
+      "countries": {
+        "value": "27",
+        "label": "EU-landen"
+      },
+      "satisfaction": {
+        "value": "98%",
+        "label": "Tevreden klanten"
+      },
+      "experience": {
+        "value": "10+",
+        "label": "Jaar ervaring"
+      }
+    },
+    "mapAlt": "Kaart van leveringsdekking in Europa"
+  },
+  "Gallery": {
+    "title": "Ons werk",
+    "subtitle": "Bekijk hoe professionele meubelbezorging en montage eruitziet"
+  },
+  "QuoteForm": {
+    "title": "Offerte aanvragen",
+    "subtitle": "Vul het formulier in en wij nemen binnen 24 uur contact met u op",
+    "fields": {
+      "name": "Volledige naam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "from": "Van (stad/land)",
+      "to": "Naar (stad/land)",
+      "message": "Beschrijving van de zending"
+    },
+    "options": {
+      "title": "Aanvullende diensten",
+      "assembly": "Meubelmontage",
+      "disposal": "Afvoer oude meubels",
+      "packaging": "Verpakking",
+      "insurance": "Aanvullende verzekering"
+    },
+    "submit": "Aanvraag versturen",
+    "success": "Bedankt! Wij nemen spoedig contact met u op.",
+    "errors": {
+      "nameRequired": "Naam is verplicht",
+      "emailRequired": "E-mail is verplicht",
+      "emailInvalid": "Ongeldig e-mailadres",
+      "fromRequired": "Ophaallocatie is verplicht",
+      "toRequired": "Leveringslocatie is verplicht"
+    }
+  },
+  "Footer": {
+    "description": "Professionele meubelbezorging en montage in heel Europa. White Glove Delivery — uw meubels in veilige handen.",
+    "contact": {
+      "title": "Contact",
+      "email": "info@dowozimy.net",
+      "phone": "+48 123 456 789",
+      "address": "ul. Przykładowa 10, 00-001 Warschau, Polen"
+    },
+    "links": {
+      "title": "Navigatie",
+      "services": "Diensten",
+      "process": "Hoe het werkt",
+      "gallery": "Galerie",
+      "quote": "Offerte"
+    },
+    "legal": {
+      "privacy": "Privacybeleid",
+      "terms": "Algemene voorwaarden"
+    },
+    "copyright": "© {year} dowozimy.net. Alle rechten voorbehouden."
+  }
+}

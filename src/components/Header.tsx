@@ -9,6 +9,7 @@ const localeLabels: Record<string, string> = {
   pl: "PL",
   en: "EN",
   de: "DE",
+  nl: "NL",
 };
 
 export default function Header() {
